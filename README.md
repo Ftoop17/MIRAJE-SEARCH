@@ -9,7 +9,7 @@
 
 ссылка на сам пойсковик:
 
-- **MIRAJE-SEARCH**: [MIRAJE-SEARCH](https://thetemirbolatov18.pythonanywhere.com/)  
+- **MIRAJE-SEARCH**: [MIRAJE-SEARCH](https://mega.nz/file/i9wxhbga#koMmwc3xYGC97pQLlBVfaTSOo9AKBlsevfYf3UQhOUc)  
 
 ### 🔥 Особенности  
 ✅ Красивый и минималистичный дизайн  
